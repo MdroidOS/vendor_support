@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.arrow.support.preferences;
+package com.sym.support.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
 import android.util.AttributeSet;
 
-import com.arrow.support.R;
+import com.sym.support.R;
 
 public class AppListPreference extends Preference {
 
