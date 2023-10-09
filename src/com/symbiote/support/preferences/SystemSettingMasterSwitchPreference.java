@@ -19,7 +19,7 @@ package com.symbiote.support.preferences;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.sym.support.preferences.SystemSettingsStore;
+import com.symbiote.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 

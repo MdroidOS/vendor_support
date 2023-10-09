@@ -33,7 +33,7 @@ import android.widget.TextView;
 
 import androidx.preference.*;
 
-import com.sym.support.R;
+import com.symbiote.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

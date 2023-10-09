@@ -25,7 +25,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.sym.support.R;
+import com.symbiote.support.R;
 
 public class CardviewPreference extends Preference {
 

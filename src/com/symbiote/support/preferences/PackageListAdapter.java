@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.sym.support.R;
+import com.symbiote.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;

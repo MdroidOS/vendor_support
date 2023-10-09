@@ -20,7 +20,7 @@ import android.content.Context;
 import androidx.preference.Preference;
 import android.util.AttributeSet;
 
-import com.sym.support.R;
+import com.symbiote.support.R;
 
 public class AppListPreference extends Preference {
 
