@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.sym.support.preferences;
+package com.symbiote.support.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
