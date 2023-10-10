@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -33,7 +33,7 @@ import android.widget.TextView;
 
 import androidx.preference.*;
 
-import com.symbiote.support.R;
+import com.mdroidtile.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

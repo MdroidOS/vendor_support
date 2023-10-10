@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.symbiote.support.preferences.SystemSettingsStore;
+import com.mdroidtile.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 

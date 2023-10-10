@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.content.Context;
 import android.provider.Settings;

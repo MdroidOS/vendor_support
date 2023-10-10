@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
 import android.util.AttributeSet;
 
-import com.symbiote.support.R;
+import com.mdroidtile.support.R;
 
 public class AppListPreference extends Preference {
 

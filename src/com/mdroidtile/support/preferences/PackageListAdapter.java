@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.symbiote.support.R;
+import com.mdroidtile.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;

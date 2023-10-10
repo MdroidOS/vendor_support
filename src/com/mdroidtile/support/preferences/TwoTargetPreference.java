@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.symbiote.support.preferences;
+package com.mdroidtile.support.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
@@ -22,7 +22,7 @@ import androidx.preference.PreferenceViewHolder;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.symbiote.support.R;
+import com.mdroidtile.support.R;
 
 public class TwoTargetPreference extends Preference {
 
